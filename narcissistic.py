@@ -1,9 +1,6 @@
 #
-#
-	Copyright 2021 Abir Haque
-
+#	Copyright 2021 Abir Haque
 #	Subject to MIT License in LICENSE file
-
 #
 #
 #
